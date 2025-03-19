@@ -14,5 +14,5 @@ This project implements a machine learning model to detect spam SMS messages usi
 ## 🛠 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/SMS-Spam-Detection.git
+   git clone https://github.com/keerthireddy36/SMS-Spam-Detection.git
    cd SMS-Spam-Detection
